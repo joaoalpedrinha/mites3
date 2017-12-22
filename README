@@ -1,0 +1,1 @@
+Mites3 is a new version of the individual-based simulation for mating strategy evolution in mite populations. In this version, I replaced the previous possible mating events approach with rates of male-female and female-male encounters, as develped in Harts & Kokko.
